@@ -1,0 +1,7 @@
+[4/1/2024 1:52:09 PM]29.02
+[4/1/2024 1:52:19 PM]29.28
+[4/1/2024 1:52:29 PM]29.46
+[4/1/2024 1:52:39 PM]29.55
+[4/1/2024 1:52:49 PM]29.81
+[4/1/2024 1:52:50 PM]IndexOutOfRangeException: Index was outside the bounds of the array.
+[4/1/2024 1:53:16 PM]Assets\bleListener.cs(72,30): warning CS0168: The variable 'e' is declared but never used

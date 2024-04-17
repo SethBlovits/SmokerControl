@@ -1,0 +1,120 @@
+[4/9/2024 12:35:02 AM]
+[4/9/2024 12:35:12 AM]
+[4/9/2024 12:35:22 AM]113.41 21.15 1240.6665 20.04 0
+[4/9/2024 12:35:32 AM]95.91 20.90 1240.4094 19.70 0
+[4/9/2024 12:35:42 AM]88.90 21.15 1240.6665 19.61 0
+[4/9/2024 12:35:52 AM]83.95 20.90 1240.4094 19.35 0
+[4/9/2024 12:36:02 AM]81.47 21.24 1240.7523 19.44 0
+[4/9/2024 12:36:12 AM]80.31 21.33 1240.8380 19.27 0
+[4/9/2024 12:36:22 AM]79.64 21.33 1240.8380 19.18 0
+[4/9/2024 12:36:33 AM]78.45 21.58 1241.0950 19.18 0
+[4/9/2024 12:36:43 AM]78.53 21.67 1241.1807 19.01 0
+[4/9/2024 12:36:53 AM]77.76 21.50 1241.0093 18.92 0
+[4/9/2024 12:37:03 AM]77.83 21.58 1241.0950 19.01 0
+[4/9/2024 12:37:13 AM]77.03 21.75 1241.2664 19.01 0
+[4/9/2024 12:37:23 AM]77.38 21.58 1241.0950 18.92 0
+[4/9/2024 12:37:33 AM]76.84 21.67 1241.1807 19.01 0
+[4/9/2024 12:37:43 AM]76.84 21.67 1241.1807 19.01 0
+[4/9/2024 12:37:43 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:43 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:44 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:44 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:44 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:44 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:44 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:44 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:44 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:45 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:45 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:45 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:45 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:45 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:45 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:45 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:46 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:46 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:46 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:46 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:46 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:46 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:46 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:47 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:47 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:47 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:47 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:47 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:47 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:47 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:47 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:48 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:48 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:48 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:48 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:48 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:48 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:48 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:49 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:49 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:49 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:49 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:49 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:49 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:49 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:50 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:50 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:50 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:50 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:50 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:50 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:50 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:50 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:51 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:51 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:51 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:51 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:51 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:51 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:51 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:52 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:52 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:52 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:52 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:52 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:52 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:52 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:53 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:53 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:53 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:53 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:53 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:53 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:53 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:53 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:54 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:54 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:54 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:54 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:54 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:54 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:54 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:55 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:55 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:55 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:55 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:55 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:55 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:55 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:56 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:56 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:56 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:56 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:56 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:56 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:56 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:56 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:57 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:57 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:57 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:57 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:57 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:37:57 AM]TimeoutException: The operation has timed out.

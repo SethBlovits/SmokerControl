@@ -25,9 +25,9 @@ public class bleListener : MonoBehaviour
     public Button zeroButton;
     public Button fiftyButton;
     public Button fullButton;
-    string sendMessage = "b";
+    string sendMessage = "z";
     float logTime = 0;
-    string data;
+    public string data = "";
     // Start is called before the first frame update
     void Start(){
         zeroButton.onClick.AddListener(zeroSpeed);
@@ -55,8 +55,8 @@ public class bleListener : MonoBehaviour
     
     void Update()
     {
-        /*
         
+        /*
         if(serial!=null && Time.time-timeSent>=timeDelay){
             serial.Write(sendMessage);
             //Debug.Log("Trying to send");
@@ -79,7 +79,7 @@ public class bleListener : MonoBehaviour
             if(words.Length==5){
                 smoke = words[0];
                 temp1 = words[1];
-                tcouple = words[2];
+                tcouple = words[2];//.Substring(2);
                 temp2 = words[3];
                 RPM = words[4];
             }

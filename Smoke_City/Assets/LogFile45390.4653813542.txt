@@ -1,0 +1,7 @@
+[4/8/2024 11:10:11 AM]NullReferenceException: Object reference not set to an instance of an object
+[4/8/2024 11:10:12 AM]NullReferenceException: Object reference not set to an instance of an object
+[4/8/2024 11:10:13 AM]NullReferenceException: Object reference not set to an instance of an object
+[4/8/2024 11:10:14 AM]NullReferenceException: Object reference not set to an instance of an object
+[4/8/2024 11:10:15 AM]NullReferenceException: Object reference not set to an instance of an object
+[4/8/2024 11:10:16 AM]NullReferenceException: Object reference not set to an instance of an object
+[4/8/2024 11:10:39 AM]Assets\bleListener.cs(72,30): warning CS0168: The variable 'e' is declared but never used

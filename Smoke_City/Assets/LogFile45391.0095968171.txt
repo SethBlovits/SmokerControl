@@ -1,0 +1,12 @@
+[4/9/2024 12:14:00 AM]
+[4/9/2024 12:14:10 AM]
+[4/9/2024 12:14:20 AM]116.52 18.84 1127.4831 18.84 27
+[4/9/2024 12:14:30 AM]95.75 18.92 1127.5692 19.18 0
+[4/9/2024 12:14:40 AM]90.66 19.27 1127.9134 19.01 0
+[4/9/2024 12:14:50 AM]86.62 19.18 1127.8273 18.58 0
+[4/9/2024 12:19:00 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:19:00 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:19:00 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:19:00 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:19:04 AM]TimeoutException: The operation has timed out.
+[4/9/2024 12:19:04 AM]TimeoutException: The operation has timed out.
